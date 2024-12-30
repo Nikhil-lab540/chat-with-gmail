@@ -1,0 +1,7 @@
+streamlit         # For the Streamlit UI
+embedchain[gmail]         # For building the knowledge-based chatbot
+sentence-transformers  # For embedding models (Hugging Face-based embeddings)
+chromadb           # For the vector database (Chroma)
+transformers       # For Hugging Face models and tokenizers
+torch             # Required for running Hugging Face models
+                  # No version needed, part of Python standard library
